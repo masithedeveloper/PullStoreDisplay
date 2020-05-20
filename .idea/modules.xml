@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PullStoreDisplay.iml" filepath="$PROJECT_DIR$/PullStoreDisplay.iml" group="PullStoreDisplay" />
+      <module fileurl="file://$PROJECT_DIR$/PullStoreDisplay-master.iml" filepath="$PROJECT_DIR$/PullStoreDisplay-master.iml" group="PullStoreDisplay-master" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="PullStoreDisplay/app" />
+    </modules>
+  </component>
+</project>
