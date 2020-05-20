@@ -1,2 +1,3 @@
-# Zapper
-Zapper Display Data
+# Cat facts
+
+Pull store display locally
